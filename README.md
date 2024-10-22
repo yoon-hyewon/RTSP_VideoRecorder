@@ -1,5 +1,9 @@
 # RTSP Video Recorder with Real-time Filters
 
+
+https://github.com/user-attachments/assets/67a41462-9115-4013-915b-ef70f822dc2b
+
+
 This Python application streams video from an **RTSP URL**, applies real-time filters, and records the video. It utilizes **OpenCV** for video processing and allows users to control recording and filters via keyboard inputs.
 
 ## Features
